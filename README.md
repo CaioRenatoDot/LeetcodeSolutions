@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de soluções para os problemas do [LeetCode](http
 
 ## 📌 Sobre
 
-Este repositório contém soluções que desenvolvi durante meus estudos em DSA para entrevistas técnicas.
+Este repositório contém soluções que desenvolvi durante meus estudos em DSA para entrevistas técnicas (E também por diversão).
 
 - 👨‍💻 Autor: **Caio Renato**
 - 🧪 Linguagens usadas: `Python` e `C++`.

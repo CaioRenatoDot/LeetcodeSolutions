@@ -6,10 +6,10 @@ Bem-vindo ao meu repositório de soluções para os problemas do [LeetCode](http
 
 ## 📌 Sobre
 
-Este repositório contém soluções que desenvolvi durante meus estudos em estruturas de dados, algoritmos e preparação para entrevistas técnicas. Todas as soluções são comentadas para facilitar a compreensão.
+Este repositório contém soluções que desenvolvi durante meus estudos em DSA para entrevistas técnicas.
 
 - 👨‍💻 Autor: **Caio Renato**
-- 🧪 Linguagens usadas: `Python`.
+- 🧪 Linguagens usadas: `Python` e `C++`.
 - 🔍 Problemas categorizados por dificuldade, tópico ou número do problema.
 - 🧮 Complexidades de tempo e espaço documentadas sempre que possível.
 

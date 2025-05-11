@@ -8,3 +8,4 @@ class Solution(object):
             return False
 
         return str(x) == str(x)[::-1]
+    
